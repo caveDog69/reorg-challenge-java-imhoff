@@ -4,9 +4,6 @@ The columns of the grid table are dymanically generated. This can be seen manupu
 
 I ran into troulbe with the testing. I was unable to get vitest or jest to work correctly in this project in stackBlitz. 
 
-known bugs:
-- the grid filtering does not work if the user uses the mouse to select from the list of remembered options
-
 
 To run the project.
 1) download the repo from github
