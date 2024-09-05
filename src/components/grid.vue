@@ -44,6 +44,7 @@ function capitalize(str) {
 }
 
 function exportToCSV() {
+  //TODO: add message to the user for sucdess or faliure;
   let csv = createCSV();
   window.open('data:text/csv;charset=utf-8,' + escape(csv));
 }
