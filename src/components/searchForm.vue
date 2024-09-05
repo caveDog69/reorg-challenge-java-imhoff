@@ -12,7 +12,7 @@ EventBus.messageData = {
 <template>
   <form id="search" class="searchForm">
     <h3>Filter Deals:</h3>
-    <input name="query" v-model="searchQuery" />
+    <input name="query" v-model="searchQuery" autocomplete="off" />
   </form>
 </template>
 
