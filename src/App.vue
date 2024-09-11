@@ -1,8 +1,8 @@
 <script setup>
 import Grid from './components/grid.vue';
-//import dealData from './data/deals_1.json';
+import dealData from './data/deals_1.json';
 //import dealData from './data/deals_2.json';
-import dealData from './data/deals_3.json';
+//import dealData from './data/deals_3.json';
 import taskPane from './components/taskPane.vue';
 import searchForm from './components/searchForm.vue';
 import { ref, computed } from 'vue';
